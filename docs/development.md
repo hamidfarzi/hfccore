@@ -9,7 +9,7 @@ Use this guide when extending HFCC with new tables, codes, handlers, or policies
 3. Add type rows before using a new status, source, category, channel, event, or job code.
 4. Keep SQL idempotent where possible.
 5. Add or update documentation in [`../HFCC.md`](../HFCC.md) and this `docs/` folder when behavior changes.
-6. Run the verification queries in [`GETTING_STARTED.md`](GETTING_STARTED.md).
+6. Run the verification queries in [`getting-started.md`](getting-started.md).
 
 ## Adding A Type Code
 

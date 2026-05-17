@@ -26,4 +26,4 @@ For now, report security issues privately to the repository owner. Do not open a
 
 ## Before Public Release
 
-Run the customization and secret scans in [`RELEASE_CHECKLIST.md`](RELEASE_CHECKLIST.md), then review all findings manually. Automated scans are useful, but they do not replace a security review.
+Run the customization and secret scans in [`release-checklist.md`](release-checklist.md), then review all findings manually. Automated scans are useful, but they do not replace a security review.
